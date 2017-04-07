@@ -236,7 +236,7 @@ dfn[title] {
 }
 
 mark {
-	background: #FFF49B;
+	background: #B7BBBB;
 	color: #000;
 }
 
@@ -267,7 +267,7 @@ dl {
 
 dt {
 	margin: 0;
-	color: #fdc501;
+	color: #B7BBBB;
 }
 
 dd {
@@ -374,7 +374,7 @@ img.pull-left {
 	height: 50px;
 	margin-left: -25px;
 	margin-top: -25px;
-	background-color: #fdc501;
+	background-color: #B7BBBB;
 	-webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
 	animation: sk-rotateplane 1.2s infinite ease-in-out;
 }
@@ -480,7 +480,7 @@ input[type="button"] {
 	font: 16px/30px "raleway-heavy", sans-serif;
 	padding: 9px 16px;
 	margin: 0 3px 6px 0;
-	background: #fdc501;
+	background: #B7BBBB;
 	color: #000000;
 	text-decoration: none;
 	cursor: pointer;
@@ -570,7 +570,7 @@ hr {
 }
 
 .section-head h1 span {
-	color: #fdc501;
+	color: #B7BBBB;
 	position: relative;
 	left: 3px;
 }
@@ -581,7 +581,7 @@ hr {
 }
 
 .section-head:hover h1 + hr {
-	border-color: #fdc501;
+	border-color: #B7BBBB;
 	width: 120px;
 	text-align: left;
 }
@@ -698,7 +698,7 @@ header .header-social li a {
 }
 
 header .header-social li a:hover {
-	color: #fdc501;
+	color: #B7BBBB;
 }
 
 /* media queries:  
@@ -855,7 +855,7 @@ ul#nav li.current a:after {
 		top: 50%;
 		bottom: auto;
 		left: auto;
-		background: #fdc501;
+		background: #B7BBBB;
 		-moz-transition: all 0.3s ease-in-out;
 		-o-transition: all 0.3s ease-in-out;
 		-webkit-transition: all 0.3s ease-in-out;
@@ -1272,7 +1272,7 @@ ul#nav li.current a:after {
 }
 
 #hero #more a:hover {
-	background: #fdc501;
+	background: #B7BBBB;
 	color: #000000;
 }
 
@@ -1562,7 +1562,7 @@ ul#nav li.current a:after {
 }
 
 .popup-modal .link-box a:hover {
-	background: #fdc501;
+	background: #B7BBBB;
 	color: #000000;
 	border: none;
 }
@@ -1694,7 +1694,7 @@ ul#nav li.current a:after {
 
 #services .service-list h3 {
 	font: 18px/36px "raleway-heavy", sans-serif;
-	color: #fdc501;
+	color: #B7BBBB;
 	padding: 0;
 	text-transform: none;
 	text-align: left;
@@ -1942,7 +1942,7 @@ ul#nav li.current a:after {
 }
 
 #call-to-action h2 span {
-	color: #fdc501;
+	color: #B7BBBB;
 }
 
 #call-to-action h2 a,
@@ -1951,7 +1951,7 @@ ul#nav li.current a:after {
 }
 
 #call-to-action h2 span {
-	color: #ffd900;
+	color: #B7BBBB;
 }
 
 #call-to-action .action a {
@@ -1976,7 +1976,7 @@ ul#nav li.current a:after {
 }
 
 #call-to-action .action a:hover {
-	background: #fdc501;
+	background: #B7BBBB;
 	color: #000000;
 }
 
@@ -2322,7 +2322,7 @@ input[type="email"],
 }
 
 #message-success {
-	color: #fdc501;
+	color: #B7BBBB;
 }
 
 #message-warning i,
@@ -2455,7 +2455,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #fdc501;
+	color: #B7BBBB;
 }
 
 footer hr {
@@ -2608,7 +2608,7 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-	background: #fdc501;
+	background: #B7BBBB;
 	color: #000000;
 }
 
