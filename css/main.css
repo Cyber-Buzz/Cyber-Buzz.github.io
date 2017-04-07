@@ -1337,6 +1337,7 @@ ul#nav li.current a:after {
 
 #portfolio-wrapper .bgrid {
 	padding: 0;
+	border: solid 4px #111417;
 }
 
 .folio-item .item-wrap {
