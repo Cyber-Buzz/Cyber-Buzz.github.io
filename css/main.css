@@ -973,6 +973,7 @@ ul#nav li.current a:after {
 	background: #0F1215 url(../images/head-bg.gif) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
+	background-attachment: fixed;
 	background-size: cover;
 	min-height: 630px;
 	width: 100%;
